@@ -13,13 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes.md",
+                "file": "daily_notes/2025-08-15.md",
                 "mode": "source",
-                "source": false,
-                "backlinks": false
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Notes"
+              "title": "2025-08-15"
             }
           }
         ]
@@ -164,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes.md",
+                "file": "daily_notes/2025-08-15.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +173,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Notes"
+              "title": "Backlinks for 2025-08-15"
             }
           }
         ],
@@ -182,8 +181,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -200,12 +198,12 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "bb7c214197291a87",
+  "active": "5ab432c2e21c1e9b",
   "lastOpenFiles": [
+    "Notes.md",
     "README.md",
     "LICENSE",
     "daily_notes/2025-08-15.md",
-    "Notes.md",
     "daily_notes",
     "2025-08-15.md",
     "Recording 20250815012950.m4a",
